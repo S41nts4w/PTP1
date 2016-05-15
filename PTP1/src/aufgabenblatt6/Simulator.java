@@ -12,11 +12,11 @@ public class Simulator {
 		this.zeit = zeit;
 	}
 
-	
 	public void schritt() {
 		zeit += SCHRITT;
 	}
-
+	
+//	Eine Zufallsperson erzeugen.
 	public Person erzeugePerson() {
 		Staedte stadt = Staedte.values()[(int) (Math.random() * Staedte.values().length)];
 		int randomHausnummer = (int) ((Math.random() * 100) + 1);
