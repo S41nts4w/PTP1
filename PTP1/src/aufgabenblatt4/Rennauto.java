@@ -24,7 +24,7 @@
  * Zustand des Objektes ausgeben.
  */
 
-package arbeitsblatt4;
+package aufgabenblatt4;
 
 public class Rennauto {
 	private String nameFahrerIn;

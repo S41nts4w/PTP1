@@ -1,4 +1,4 @@
-package arbeitsblatt4;
+package aufgabenblatt4;
 
 public class Wettbuero {
 	private int anzahlWetten;
