@@ -1,4 +1,4 @@
-package aufgabenblatt_3;
+package aufgabenblatt3;
 import java.util.Scanner;
 
 public class Fibonacci {
