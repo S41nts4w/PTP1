@@ -27,7 +27,7 @@ public class Simulator {
 		System.out.println(person);
 		return person;
 	}
-
+//	Eine Hilfsmethode zur erstellung einer Straße aus 3 Arrays mit unterschiedlichen Straßenbausteinen
 	private String strassenBausetein() {
 		String strassenName;
 		String[] baustein1 = { "Hinrichsen", "Falken", "Schulkamp", "Muster", "Holm", "Berg", "Schuster", };
